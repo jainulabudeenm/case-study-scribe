@@ -1,0 +1,37 @@
+{
+  "name": "case-study-scribe",
+  "version": "1.0.0",
+  "description": "Install the Case Study Scribe skill for Claude. Turns a work log into per-project case-study material as you go, with dates, sources and honest credit.",
+  "keywords": [
+    "claude",
+    "claude-skill",
+    "claude-code",
+    "case-study",
+    "portfolio",
+    "brag-document",
+    "career",
+    "work-log"
+  ],
+  "author": "Zain Hasan",
+  "license": "MIT",
+  "bin": {
+    "case-study-scribe": "bin/install.js"
+  },
+  "files": [
+    "bin/",
+    "skills/case-study-scribe.skill",
+    "README.md",
+    "LICENSE"
+  ],
+  "engines": {
+    "node": ">=16"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jainulabudeenm/case-study-scribe.git"
+  },
+  "homepage": "https://github.com/jainulabudeenm/case-study-scribe#readme",
+  "bugs": {
+    "url": "https://github.com/jainulabudeenm/case-study-scribe/issues"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "case-study-scribe",
+  "version": "1.0.0",
+  "description": "Turns a work log into case-study material as you go: files each entry into its project's case-study seed by tag, with dates, sources and honest credit, and reports which projects are ready to write up. Never invents a number.",
+  "author": {
+    "name": "Zain",
+    "url": "https://github.com/jainulabudeenm"
+  }
+}

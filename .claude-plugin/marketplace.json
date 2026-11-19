@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "case-study-scribe",
+  "description": "Keeps the evidence for your next case study while the work is happening.",
+  "owner": {
+    "name": "Zain",
+    "url": "https://github.com/jainulabudeenm"
+  },
+  "plugins": [
+    {
+      "name": "case-study-scribe",
+      "description": "Files work log entries into per-project case-study seeds, and tells you which projects are ready to write up.",
+      "source": "./",
+      "category": "productivity"
+    }
+  ]
+}
